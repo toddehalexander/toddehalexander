@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toddehalexander&label=Profile%20views&color=0e75b6&style=flat" alt="toddehalexander" /> </p>
+<h1 align="center">Hi 👋, I'm Toddeh Alexander</h1>
+<h3 align="center">A commited Univeristy Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toddehalexander" alt="toddehalexander" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=toddehalexander&label=Profile%20views&color=ff7b00&style=flat" alt="toddehalexander" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toddehalexander&show_icons=true&locale=en&layout=compact" alt="toddehalexander" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toddehalexander&show_icons=true&locale=en" alt="toddehalexander" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toddehalexander&show_icons=true&theme=dark&locale=en&layout=compact" alt="toddehalexander" /></p>
