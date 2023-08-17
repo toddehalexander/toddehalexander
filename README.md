@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Toddeh Alexander</h1>
-<h3 align="center">A commited Univeristy Student</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toddehalexander&label=Profile%20views&color=0e75b6&style=flat" alt="toddehalexander" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toddehalexander" alt="toddehalexander" /></a> </p>
