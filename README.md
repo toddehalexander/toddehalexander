@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 <h3 align="center">Currently Univeristy Student Studying Computer Science </h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddehalexander&layout=compact&theme=radical" /></p>
-<a href="https://linkedin.com/in/toddeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toddeh" height="30" width="40" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddehalexander&layout=compact&theme=radical" /></p><a href="https://linkedin.com/in/toddeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toddeh" height="30" width="40" /></a>
 
