@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Toddeh Alexander</h1>
-<h3 align="center">Currently Univeristy Student Studying Computer Science</h3>
+<h3 align="center">Currently Univeristy Student Studying Computer Science </h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toddehalexander&show_icons=true&theme=dark&locale=en&layout=compact" alt="toddehalexander" /></p>
