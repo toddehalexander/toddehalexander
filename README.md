@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Computer Science<br>🎯 Goals: Certifications and Licenses</p>
+<p align="left">📚 I'm currently learning Computer Science<br>🎯 Goals: Certifications and Licenses</p>
 
 ###
 
