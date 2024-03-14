@@ -25,7 +25,7 @@
 ###
 - [Visit my website](https://toddeh.com/)
 
-## Future Goals
+## Future Goals 🎯
 
 In the future, I aspire to:
 - Gain industry-relevant certifications to enhance my skills.
