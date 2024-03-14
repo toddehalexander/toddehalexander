@@ -34,8 +34,12 @@
 <h1></h1>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddehalexander&theme=dracula&hide_border=false" height="200" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddehalexander&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="200" align="right">
+  <span style="display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddehalexander&theme=dracula&hide_border=false" height="200" align="left">
+  </span>
+  <span style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddehalexander&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="200" align="right">
+  </span>
 </div>
 
 
