@@ -20,15 +20,13 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
+<h1></h1>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddehalexander&theme=dracula&hide_border=false")>
+</div>
 
 <h1></h1>
 
-<p align="center">
-<!-- <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=toddehalexander&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
-<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddehalexander&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;"> -->
-</p>
-
-  
 <!--Projects-->
 ### ✔ Some of my projects are available [here](https://github.com/toddehalexander?tab=repositories)
 
@@ -37,5 +35,3 @@
 ### 💻 My Website [toddeh.com](https://toddeh.com)
 
 ### 📫 You can reach me at **alexandertoddeh@gmail.com**
-
-### [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo" />](https://www.linkedin.com/in/toddeh/) Add my [LinkedIn](https://www.linkedin.com/in/toddeh/)
