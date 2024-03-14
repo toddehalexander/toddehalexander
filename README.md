@@ -21,11 +21,6 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
 <h1></h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddehalexander&theme=dracula&hide_border=false")>
-</div>
-
-<h1></h1>
 
 <!--Projects-->
 ### ✔ Some of my projects are available [here](https://github.com/toddehalexander?tab=repositories)
@@ -35,3 +30,9 @@
 ### 💻 My Website [toddeh.com](https://toddeh.com)
 
 ### 📫 You can reach me at **alexandertoddeh@gmail.com**
+
+<h1></h1>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddehalexander&theme=dracula&hide_border=false")>
+</div>
