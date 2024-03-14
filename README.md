@@ -25,7 +25,11 @@
 ###
 - [Visit my website](https://toddeh.com/)
 
-###
+## Future Goals
+
+In the future, I aspire to:
+- Gain industry-relevant certifications to enhance my skills.
+- Pursue opportunities for professional growth and development.
 
 <h2 align="center">I code with</h2>
 
