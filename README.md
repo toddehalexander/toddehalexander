@@ -1,8 +1,6 @@
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/toddehalexander/count.svg?"  />
-</div>
+
 
 ###
 
@@ -15,17 +13,11 @@
 
 ###
 - [Resume](https://toddeh.com/assets/Toddeh_Alexander_Resume.pdf)
-
 ###
 - [Visit my website](https://toddeh.com/)
+###
+- [LinkedIn](https://www.linkedin.com/in/toddeh/)
 
-
-<div align="left">
-  Click to connect with me on LinkedIn: 
-  <a href="https://www.linkedin.com/in/toddeh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="vertical-align: middle;" />
-  </a>
-</div>
 
 
 ## Future Goals 🎯
@@ -65,6 +57,3 @@ In the future, I aspire to:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toddehalexander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
