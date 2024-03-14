@@ -18,9 +18,7 @@
 
 <p align="left">My name is Toddeh Alexander and I'm a University Student from Los Angeles.</p>
 
-Resume
-
-You can view my resume [here](https://toddeh.com/assets/Toddeh_Alexander_Resume.pdf).
+[Resume](https://toddeh.com/assets/Toddeh_Alexander_Resume.pdf).
 
 
 
