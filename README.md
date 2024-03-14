@@ -16,9 +16,13 @@
 
 ###
 
-<p align="left">My name is Toddeh Alexander and I'm a University Student from Los Angeles.</p>
+<p align="left">- Hello! My name is Toddeh Alexander, I'm an undergraduate computer science student attending California State University, Fullerton.</p>
+<p>- Beyond work, I build plenty of side projects and try to make the most out of my opportunities.</p>
 
-[##Resume](https://toddeh.com/assets/Toddeh_Alexander_Resume.pdf)
+[Resume](https://toddeh.com/assets/Toddeh_Alexander_Resume.pdf)
+
+- Hello! My name is Toddeh Alexander, I'm an undergraduate computer science student attending California State University, Fullerton.
+- Beyond work, I build plenty of side projects and try to make the most out of my opportunities.
 
 
 
