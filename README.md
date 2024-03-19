@@ -34,7 +34,8 @@
 
 <h1></h1>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddehalexander&theme=dracula&hide_border=false" height="175" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddehalexander&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="175" align="right">
-</div>
+### <ins>Featured Projects</ins>
+
+[![CodeRacer](https://github-readme-stats.vercel.app/api/pin/?username=toddehalexander&repo=CodeRacer&theme=dracula)](https://github.com/toddehalexander/CodeRacer)&ensp;&ensp;&ensp;[![Educational Textbook Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=toddehalexander&repo=Educational-Textbook-Chatbot&theme=dracula)](https://github.com/toddehalexander/Educational-Textbook-Chatbot)
+
+
