@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello World, I'm Toddeh Alexander 🙋‍♂️🌎 </h1>
 <h3 align="center">I'm an undergraduate computer science student attending California State University, Fullerton. 🐘
 
@@ -31,11 +30,3 @@
 ### 💻 My Website [toddeh.com](https://toddeh.com)
 
 ### 📫 You can reach me at **alexandertoddeh@gmail.com**
-
-<h1></h1>
-
-### <ins>Featured Projects</ins>
-
-[![CodeRacer](https://github-readme-stats.vercel.app/api/pin/?username=toddehalexander&repo=CodeRacer&theme=dracula)](https://github.com/toddehalexander/CodeRacer)&ensp;&ensp;&ensp;[![Educational Textbook Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=toddehalexander&repo=Educational-Textbook-Chatbot&theme=dracula)](https://github.com/toddehalexander/Educational-Textbook-Chatbot)
-
-
