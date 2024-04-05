@@ -6,27 +6,28 @@
 <p align="left">
   
 <h3 style="vertical-align:top; margin:4px" > I've worked with... <h3>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+
+##### Programing languages
+[![](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,swift,r)](https://skillicons.dev)
+
+##### Backend Development
+[![](https://skillicons.dev/icons?i=nodejs,php,mysql,flask)](https://skillicons.dev)
+
+##### Mobile Development
+[![](https://skillicons.dev/icons?i=swift,react)](https://skillicons.dev)
+
+##### Other Technologies
+[![](https://skillicons.dev/icons?i=raspberrypi,arduino,docker,bots,cloudflare,firebase,figma,linux,apple,windows)](https://skillicons.dev)
+
+
 
 <h1></h1>
 
-<!--Projects-->
 ### ✔ Some of my projects are available [here](https://github.com/toddehalexander?tab=repositories)
 
 ### 📄 Here's my [resumé](https://toddeh.com/assets/Resume/Toddeh_Alexander_Resume.pdf)
 
 ### 💻 My Website [toddeh.com](https://toddeh.com)
 
-### 📫 You can reach me at **alexandertoddeh@gmail.com**
+### 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/toddeh/) or alexandertoddeh@gmail.com
+
