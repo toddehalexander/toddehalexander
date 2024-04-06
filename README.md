@@ -7,17 +7,16 @@
   
 <h3 style="vertical-align:top; margin:4px" > I've worked with... <h3>
 
-##### Programing languages
-[![](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,swift,r)](https://skillicons.dev)
-
+##### Programming languages
+![](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,swift,r)
 ##### Backend Development
-[![](https://skillicons.dev/icons?i=nodejs,php,mysql,flask)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=nodejs,php,mysql,flask)
 
 ##### Mobile Development
-[![](https://skillicons.dev/icons?i=swift,react)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=swift,react)
 
 ##### Other Technologies
-[![](https://skillicons.dev/icons?i=raspberrypi,arduino,docker,bots,cloudflare,firebase,figma,linux,apple,windows)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=raspberrypi,arduino,docker,bots,cloudflare,firebase,figma,linux,apple,windows)
 
 
 
