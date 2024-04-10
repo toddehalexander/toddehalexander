@@ -1,5 +1,5 @@
-![](Acorn.png)
-![](Scrat.png)
+<img src="Acorn.png" width="250">
+<div align="center"><img src="Scrat.png" width="400"></div>
 <h1 align="center">Hello World, I'm Toddeh Alexander 🙋‍♂️🌎 </h1>
 <h3 align="center">An undergraduate computer science student attending California State University, Fullerton. 🐘
 
