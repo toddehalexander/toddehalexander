@@ -1,3 +1,5 @@
+![](Acorn.png)
+![](Scrat.png)
 <h1 align="center">Hello World, I'm Toddeh Alexander 🙋‍♂️🌎 </h1>
 <h3 align="center">An undergraduate computer science student attending California State University, Fullerton. 🐘
 
