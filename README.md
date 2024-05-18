@@ -3,8 +3,7 @@
 
 
 <h1 align="center">Hello World, I'm Toddeh Alexander 🙋‍♂️🌎 </h1>
-<h3 align="center">An undergraduate computer science student attending California State University, Fullerton. 🐘 
-
+<h3 align="center">An undergraduate computer science student attending California State University, Fullerton. 🐘  
 <h1></h1>  
 
 <p align="left"> 
