@@ -1,4 +1,4 @@
-<img src="/assets/Acorn.png" width="250">
+<img src="/assets/Acorn.png" width="250"> 
 <div align="center"><img src="/assets/Scrat.png" width="400"></div> 
 
 
