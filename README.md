@@ -20,7 +20,6 @@
 ##### Other Technologies
 ![](https://skillicons.dev/icons?i=raspberrypi,arduino,docker,bots,cloudflare,firebase,figma,linux,apple,windows)
 
-
 <h1></h1>
 
 ### ✔ Some of my projects are available [here](https://github.com/toddehalexander?tab=repositories)
