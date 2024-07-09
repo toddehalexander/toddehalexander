@@ -12,7 +12,7 @@
 ##### Programming languages
 ![](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,r)
 ##### Backend Development
-![](https://skillicons.dev/icons?i=nodejs,php,mysql,flask)
+![](https://skillicons.dev/icons?i=nodejs,php,mysql,flask) 
 
 ##### Mobile Development
 ![](https://skillicons.dev/icons?i=swift,react)
