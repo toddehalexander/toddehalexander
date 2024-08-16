@@ -6,7 +6,6 @@
 <h1></h1> 
 
 <p align="left"> 
-
   
 <h3 style="vertical-align:top; margin:4px" > I've worked with... <h3>
 
