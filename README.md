@@ -10,7 +10,7 @@
 <h3 style="vertical-align:top; margin:4px" > I've worked with... <h3> 
     
 ##### Programming languages
-![](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,r) 
+![](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,r)  
   
 ##### Backend Development 
 ![](https://skillicons.dev/icons?i=nodejs,php,mysql,flask)  
