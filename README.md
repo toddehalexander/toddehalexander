@@ -19,7 +19,7 @@
 ##### Mobile Development 
 ![](https://skillicons.dev/icons?i=swift,react)  
 
-##### Other Technologies
+##### Other Technologies 
 ![](https://skillicons.dev/icons?i=raspberrypi,arduino,docker,bots,cloudflare,firebase,figma,linux,apple,windows)
  
 <h1></h1>
