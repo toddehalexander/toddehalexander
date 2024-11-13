@@ -5,7 +5,7 @@
 <h3 align="center">An undergraduate computer science student attending California State University, Fullerton. 🐘  
 <h1></h1>  
   
-<p align="left">  
+<p align="left">   
    
 <h3 style="vertical-align:top; margin:4px" > I've worked with... <h3>   
     
