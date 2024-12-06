@@ -26,7 +26,7 @@
 
 
 ### ✔ Some of my projects are available [here](https://github.com/toddehalexander?tab=repositories)
-
+ 
 ### 📄 Here's my [resumé](https://toddeh.com/assets/Resume/Toddeh_Alexander_Resume.pdf)
 
 ### 💻 My Website [toddeh.com](https://toddeh.com)
