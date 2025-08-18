@@ -1,6 +1,5 @@
 # 👋 Hey there, I'm Toddeh Alexander
 
-🚀 **Full Stack | Network Wizard | Web3 & Security Enthusiast**  
 🎓 CS @ California State University - Fullerton | Cybersecurity Minor  
 📍 Los Angeles, California
 
